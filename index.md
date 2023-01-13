@@ -23,8 +23,8 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
 
   **No.**  | **Fecha**    | **Tópicos**                                                                    | **Recursos**
   -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
-  01       | 10.01.2023   | Introducción. Historia de la geometrìa diferencial. <br/>  | 
-  02       | 12.01.2023   | Curvas parametrizadas. <br/>  | 
+  01       | 10.01.2023   | Introducción. Historia de la geometrìa diferencial. <br/>                      | 
+  02       | 12.01.2023   | Curvas parametrizadas. Longitud de arco. <br/>                                 | Do Carmo, sección 1.2. <br/> Kühnel, sección 2A, pp. 7--11. 
   
   
 # Referencias
