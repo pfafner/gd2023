@@ -27,6 +27,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   02       | 12.01.2023   | Curvas parametrizadas. Longitud de arco. <br/> [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Do Carmo, sección 1.2. <br/> Kühnel, sección 2A, pp. 7--11.
   03       | 17.01.2023   | Parametrización por longitud de arco. [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Do Carmo, sección 1.3. <br/> Kühnel, sección 2A, pp. 7--11.
   04       | 19.01.2023   | Teoría local de curvas planas. Curvatura en R^2 y en R^3.  |
+  05       | 24.01.2023   |                                                            |
   
   
 # Referencias
