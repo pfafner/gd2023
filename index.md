@@ -12,7 +12,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
 
 * Martes y jueves, de 19:50 a 21:25 horas.
 
-### Office Hours/
+### Office Hours
 <div id='id-office'/>
 
 * Viernes de 18:00 a 20:00 horas, por solicitud del estudiante. También pueden enviar sus dudas por correo electrónico.
