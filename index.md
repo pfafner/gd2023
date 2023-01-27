@@ -30,7 +30,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   05       | 24.01.2023   | Forma canónica local. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Do Carmo, sección 1.6. <br/> Kühnel, secciones 2C y 2D.
   06       | 26.01.2023   | Transformaciones rígidas. <br/>  | Para leer sobre el Teorema Fundamental de las EDO: Cap 8. <br/>
 [(W. Kelley, A. Peterson) The Theory of EDO](http://library.lol/main/6CC3B361D2F1430322DE2E6379262779){:target="_blank"}
-  L1       | 26.01.2023   |     | **[Lista 01](listas/lista01.pdf){:target="_blank"}** <br/> **Fecha de entrega: Jueves 09 de febrero.**
+  L1       | 26.01.2023   |                                  | **[Lista 01](listas/lista01.pdf){:target="_blank"}** <br/> **Fecha de entrega: Jueves 09 de febrero.**
 
   
   
