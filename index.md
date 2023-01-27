@@ -28,8 +28,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   03       | 17.01.2023   | Parametrización por longitud de arco. [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Do Carmo, sección 1.3. <br/> Kühnel, sección 2A, pp. 7--11.
   04       | 19.01.2023   | Teoría local de curvas. Curvatura en R^2 y en R^3. [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Do Carmo, sección 1.5. Kühnel, sección 2B. <br/> [Curva toroidal](otros/toroidal_curve.ggb){:target="_blank"}
   05       | 24.01.2023   | Forma canónica local. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Do Carmo, sección 1.6. <br/> Kühnel, secciones 2C y 2D.
-  06       | 26.01.2023   | Transformaciones rígidas. <br/>  | Para leer sobre el Teorema Fundamental de las EDO: Cap 8. <br/>
-[(W. Kelley, A. Peterson) The Theory of EDO](http://library.lol/main/6CC3B361D2F1430322DE2E6379262779){:target="_blank"}
+  06       | 26.01.2023   | Transformaciones rígidas. <br/>  | Para leer sobre el Teorema Fundamental de las EDO: Cap 8. [(W. Kelley, A. Peterson) The Theory of EDO](http://library.lol/main/6CC3B361D2F1430322DE2E6379262779){:target="_blank"}
   L1       | 26.01.2023   |                                  | **[Lista 01](listas/lista01.pdf){:target="_blank"}** <br/> **Fecha de entrega: Jueves 09 de febrero.**
 
   
