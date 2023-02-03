@@ -32,6 +32,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   L1       | 26.01.2023   |                                  | **[Lista 01](listas/lista01.pdf){:target="_blank"}** <br/> **Fecha de entrega: Jueves 09 de febrero.**
   07       | 31.01.2023   | El Teorema Fundamental de la teoría local de curvas. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Do Carmo, sección 1.6. <br/>
 Kühnel, sección 2D, pp. 28–32.
+  08       | 02.02.2023   | Propiedades globales de curvas planas. La desigualdad isoperimétrica. |  
   
   
 # Referencias
