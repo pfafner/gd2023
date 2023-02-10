@@ -34,6 +34,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   08       | 02.02.2023   | Propiedades globales de curvas planas. La desigualdad isoperimétrica. [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Do Carmo, sección 1.7. <br/> Kühnel, sección 2F. 
   09       | 07.02.2023  | Índice de rotación. Curvas convexas. El Teorema de los 4 vértices. [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Kühnel, sección 2F.
   10       | 09.02.2023  | La fórmula de Cauchy-Crofton. <br/> | Do Carmo, sección 1.7.
+  11       | 09.02.2023  | Curvas en el espacio de Minkowski. <br/> | Kühnel, sección 2E, pp. 33–37.
 
   
 # Referencias
