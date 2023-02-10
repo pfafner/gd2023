@@ -33,7 +33,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   07       | 31.01.2023   | El Teorema Fundamental de la teoría local de curvas. <br/> [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Do Carmo, sección 1.6. <br/> Kühnel, sección 2D, pp. 28–32.
   08       | 02.02.2023   | Propiedades globales de curvas planas. La desigualdad isoperimétrica. [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Do Carmo, sección 1.7. <br/> Kühnel, sección 2F. 
   09       | 07.02.2023  | Índice de rotación. Curvas convexas. El Teorema de los 4 vértices. [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Kühnel, sección 2F.
-  10       | 09.02.2023  | La fórmula de Cauchy-Crofton. <br/> | 
+  10       | 09.02.2023  | La fórmula de Cauchy-Crofton. <br/> | Do Carmo, sección 1.7.
 
   
 # Referencias
