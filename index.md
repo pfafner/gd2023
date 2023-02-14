@@ -35,7 +35,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   09       | 07.02.2023  | Índice de rotación. Curvas convexas. El Teorema de los 4 vértices. [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Kühnel, sección 2F.
   10       | 09.02.2023  | La fórmula de Cauchy-Crofton. <br/> | Do Carmo, sección 1.7.
   11       | 09.02.2023  | Curvas en el espacio de Minkowski. <br/> | Kühnel, sección 2E, pp. 33–37.
-  12       |             |                                          | 
+  L2       | 13.02.2023  |                                   | **[Lista 02](listas/lista02.pdf){:target="_blank"}** <br/> **Fecha de entrega: Jueves 23 de febrero.**
 
   
 # Referencias
