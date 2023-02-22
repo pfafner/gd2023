@@ -38,7 +38,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   L2       | 13.02.2023  |                                   | **[Lista 02](listas/lista02.pdf){:target="_blank"}** <br/> **Fecha de entrega: Jueves 23 de febrero.**
   12       | 14.02.2023  | Solución de la Lista 01.          | 
   13       | 16.02.2023  | Superficies Regulares. <br/>                    | Do Carmo, sección 2.1.
-  14       | 21.02.2023  |                                                 | 
+  14       | 21.02.2023  | Ejemplos de superficies regulares. <br/>        | Do Carmo, sección 2.1.
     
   
 # Referencias
