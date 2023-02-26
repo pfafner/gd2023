@@ -39,6 +39,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   12       | 14.02.2023  | Solución de la Lista 01.          | 
   13       | 16.02.2023  | Superficies Regulares. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Do Carmo, sección 2.2.
   14       | 21.02.2023  | Ejemplos de superficies regulares. Formal local. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Do Carmo, sección 2.2.
+  15       | 23.02.2023  | Más ejemplos de superficies regulares. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Do Carmo, sección 2.2.
     
   
 # Referencias
