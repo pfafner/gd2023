@@ -42,6 +42,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   15       | 23.02.2023  | Más ejemplos de superficies regulares. <br/> | Do Carmo, sección 2.2.
   16       | 07.03.2023  | Funciones diferencibles sobre superficies. <br/> | Do Carmo, sección 2.3. 
   L3       | 07.03.2023  |                                   | **[Lista 03](listas/lista03.pdf){:target="_blank"}** <br/> **Fecha de entrega: Jueves 16 de marzo.**
+  17       | 09.03.2023  | El plano Tangente. El fibrado tangente. <br/> | Do Carmo, sección 2.4. <br/> En el libro de Do Carmo de variedades, se habla un poco sobre el fibrado tangente.
       
   
 # Referencias
