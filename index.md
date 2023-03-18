@@ -44,7 +44,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   L3       | 07.03.2023  |                                   | **[Lista 03](listas/lista03.pdf){:target="_blank"}** <br/> **Fecha de entrega: Jueves 16 de marzo.**
   17       | 09.03.2023  | El plano Tangente. El fibrado tangente. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} | Do Carmo, sección 2.4. <br/> En el libro de Do Carmo de variedades, se habla un poco sobre el fibrado tangente. 
   18       | 14.03.2023  | Ejercicios de la Lista 03.        | 
-  19       | 16.03.2023  | Orientabilidad de superficies.    | 
+  19       | 16.03.2023  | Orientabilidad de superficies. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | Do Carmo, sección 2.5. 
       
   
 # Referencias
