@@ -45,7 +45,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   17       | 09.03.2023  | El plano Tangente. El fibrado tangente. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} | Do Carmo, sección 2.4. <br/> En el libro de Do Carmo de variedades, se habla un poco sobre el fibrado tangente. 
   18       | 14.03.2023  | Ejercicios de la Lista 03.        | 
   19       | 16.03.2023  | Orientabilidad de superficies. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | Kühnel, sección 3A, pp. 63–65. <br/> Do Carmo, sección 2.6. En Do Carmo se usa otro modelo para la banda de Möbius. 
-  20       | 21.03.2023  | La primera forma fundamental.     |  
+  20       | 21.03.2023  | La primera forma fundamental. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | Kühnel, sección 3A, pp. 63–65. <br/> Do Carmo, sección 2.6.  
   
   
 # Referencias
