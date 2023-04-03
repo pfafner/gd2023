@@ -48,7 +48,6 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   20       | 21.03.2023  | La primera forma fundamental. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | Kühnel, sección 3A. <br/> Do Carmo, sección 2.5.
   L4       | 23.03.2023  |                                   | **[Lista 04](listas/lista04.pdf){:target="_blank"}** <br/> **Fecha de entrega: Martes 11 de abril.**
   21       | 23.03.2023  | Áreas en superficies. <br/>  |  
-  22       |             |                              | 
   
   
 # Referencias
