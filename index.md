@@ -46,9 +46,9 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   18       | 14.03.2023  | Ejercicios de la Lista 03.        | 
   19       | 16.03.2023  | Orientabilidad de superficies. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} | Kühnel, sección 3A, pp. 63–65. <br/> Do Carmo, sección 2.6. En Do Carmo se usa otro modelo para la banda de Möbius. 
   20       | 21.03.2023  | La primera forma fundamental. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | Kühnel, sección 3A. <br/> Do Carmo, sección 2.5.
-  L4       | 23.03.2023  |                                   | **[Lista 04](listas/lista04.pdf){:target="_blank"}** <br/> **Fecha de entrega: Martes 11 de abril.**
   21       | 23.03.2023  | Áreas en superficies. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Kühnel, sección 3A. <br/> Do Carmo, sección 2.5.
-  22       | 11.04.2023  | La aplicación de Gauss. Segunda forma fundamental <br/>   | 
+  L4       | 23.03.2023  |                                   | **[Lista 04](listas/lista04.pdf){:target="_blank"}** <br/> **Fecha de entrega: Martes 11 de abril.**
+  22       | 11.04.2023  | La aplicación de Gauss. Segunda forma fundamental. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Kühnel, sección 3B. <br/> Do Carmo, sección 3.1. 
   
   
 # Referencias
