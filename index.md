@@ -49,6 +49,8 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   21       | 23.03.2023  | Áreas en superficies. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | Kühnel, sección 3A. <br/> Do Carmo, sección 2.5.
   L4       | 23.03.2023  |                                   | **[Lista 04](listas/lista04.pdf){:target="_blank"}** <br/> **Fecha de entrega: Martes 11 de abril.**
   22       | 11.04.2023  | La aplicación de Gauss. Segunda forma fundamental. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Kühnel, sección 3B. <br/> Do Carmo, sección 3.1. 
+  23       | 13.04.2023  | Aplicaciones de la Segunda forma fundamental. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} |  
+  24       | 13.04.2023  | Curvaturas en superfícies. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} |   
   
   
 # Referencias
