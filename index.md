@@ -51,7 +51,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   22       | 11.04.2023  | La aplicación de Gauss. Segunda forma fundamental. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | Kühnel, sección 3B. <br/> Do Carmo, sección 3.1. 
   23       | 13.04.2023  | Aplicaciones de la Segunda forma fundamental. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} | Kühnel, sección 3B. <br/> Do Carmo, sección 3.1. 
   24       | 13.04.2023  | Curvaturas en superfícies. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Kühnel, sección 3B. Do Carmo, sección 3.2 y 3.3.  
-  25       | 18.04.2023  | Segunda forma fundamental en coordenadas. Ecuaciones de Weingarten. <br/> | Kühnel, sección 3B. Do Carmo, sección 3.2 y 3.3.  
+  25       | 18.04.2023  | Segunda forma fundamental en coordenadas. Ecuaciones de Weingarten. <br/> | Kühnel, sección 3B. Do Carmo, sección 3.3.
   
   
 # Referencias
