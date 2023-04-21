@@ -53,7 +53,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   24       | 13.04.2023  | Curvaturas en superfícies. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | Kühnel, sección 3B. Do Carmo, sección 3.2 y 3.3.  
   25       | 18.04.2023  | Segunda forma fundamental en coordenadas. Ecuaciones de Weingarten. <br/> [Aula 22](aulas/Aula22.pdf){:target="_blank"} | Kühnel, sección 3B. Do Carmo, sección 3.3.
   26       | 18.04.2023  | Superficies Regladas. Superficies de Revolución. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"} | Do Carmo, sección 3.4.
-  L5       | 20.04.2023  |                                   | **[Lista 05](listas/lista05.pdf){:target="_blank"}** <br/> **Fecha de entrega: Jueves 04 de mayo.**
+  L5       | 20.04.2023  |                                   | **[Lista 05](listas/lista05.pdf){:target="_blank"}** <br/> **Fecha de entrega: Viernes 05 de mayo.**
   27       | 20.04.2023  | El problema de Plateau. Superficies Mínimas. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Kühnel, sección 3D. <br/> Do Carmo, sección 3.5.B.
   
   
