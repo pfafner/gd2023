@@ -55,6 +55,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   26       | 18.04.2023  | Superficies Regladas. Superficies de Revolución. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"} | Do Carmo, sección 3.4.
   L5       | 20.04.2023  |                                   | **[Lista 05](listas/lista05.pdf){:target="_blank"}** <br/> **Fecha de entrega: Viernes 05 de mayo.**
   27       | 20.04.2023  | El problema de Plateau. Superficies Mínimas. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Kühnel, sección 3D. <br/> Do Carmo, sección 3.5.B.
+  28       | 25.04.2023  | Superficies Mínimas II. Representación de Weierstrass. <br/> [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Kühnel, sección 3D. 
   
   
 # Referencias
