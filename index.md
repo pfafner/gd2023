@@ -57,6 +57,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   27       | 20.04.2023  | El problema de Plateau. Superficies Mínimas. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} | Kühnel, sección 3D. <br/> Do Carmo, sección 3.5.B.
   28       | 25.04.2023  | Superficies Mínimas II. Representación de Weierstrass. <br/> [Aula 25](aulas/Aula25.pdf){:target="_blank"} | Kühnel, sección 3D. 
   29       | 27.04.2023  | Superficies en espacios de Minkowski. <br/> [Aula 26](aulas/Aula26.pdf){:target="_blank"} | Kühnel, sección 3E. 
+  30       | 27.04.2023  | Geometría intrínseca de superficies. Símbolos de Christoffel. Teorema *Egregium*. [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Do Carmo, sección 4.3. <br/> Kühnel, sección 4C. 
   
   
 # Referencias
