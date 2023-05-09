@@ -60,6 +60,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   30       | 27.04.2023  | Geometría intrínseca de superficies. Símbolos de Christoffel. Teorema *Egregium*. [Aula 27](aulas/Aula27.pdf){:target="_blank"} | Do Carmo, sección 4.3. <br/> Kühnel, sección 4C. 
   31       | 02.05.2023   | Teorema de Bonnet. Cálculo de símbolos de Christoffel. <br/> [Aula 28](aulas/Aula28.pdf){:target="_blank"} | Do Carmo, sección 4.3. <br/> Kühnel, sección 4D.
   32       | 04.05.2023   | Geodésicas I: vecindad tubular. Definición de geodésica. | Do Carmo, sección 4.4.
+  33       | 04.05.2023   | Geodésicas II:                                           | Do Carmo, sección 4.4.
 
   
 # Referencias
