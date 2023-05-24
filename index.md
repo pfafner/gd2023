@@ -63,6 +63,7 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   33       | 11.05.2023   | Ejemplos de Geodésicas.  | Do Carmo, sección 4.4. <br/> Kühnel, sección 4A.
   34       | 16.05.2023   | La Derivada Covariante. Ecuación de las Geodésicas <br/> [Aula 30](aulas/Aula30.pdf){:target="_blank"} | Do Carmo, sección 4.4. <br/> Kühnel, sección 4A.
   35       | 18.05.2023   | Transporte Paralelo. <br/> [Aula 31](aulas/Aula31.pdf){:target="_blank"} | Do Carmo, sección 4.4. <br/> Kühnel, sección 4A.
+  L6       | 23.05.2023  |                                   | **[Lista 06](listas/lista06.pdf){:target="_blank"}** <br/> **Fecha de entrega: Sábado 03 de junio.** 
   36       | 23.05.2023   | El Teorema de Gauss-Bonnet local. <br/> [Aula 32](aulas/Aula32.pdf){:target="_blank"} | Do Carmo, sección 4.5. <br/> Kühnel, sección 4F.
   37       | 25.05.2023   |   |
   
