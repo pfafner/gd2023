@@ -68,6 +68,19 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   37       | 25.05.2023   | El Teorema de Gauss-Bonnet global. <br/> [Aula 33](aulas/Aula33.pdf){:target="_blank"} | Do Carmo, sección 4.5. <br/> Kühnel, sección 4F.
   
 
+# Seminario
+<div id='id-proj'/>
+
+Tema: Superficies Mínimas.
+
+### Fechas importantes:
+
+  **No.**  | **Fecha**       |  .
+  -------- | --------------- | ---------------------------------------------------
+  1        | 27.05.2023      | Entrega de presentación y reporte (borrador).
+  2        | 29-31.05.2023   | Presentación de Seminarios.
+  3        | 03.06.2023      | Entrega de versión final (Presentación y Reporte).
+
 ### Presentaciones:
 
 Fecha       | Expositor              | Tópico 
