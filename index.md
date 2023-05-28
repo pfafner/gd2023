@@ -67,6 +67,14 @@ Este es un curso introductorio de geometría diferencial. El tema central del cu
   36       | 23.05.2023   | El Teorema de Gauss-Bonnet local. <br/> [Aula 32](aulas/Aula32.pdf){:target="_blank"} | Do Carmo, sección 4.5. <br/> Kühnel, sección 4F.
   37       | 25.05.2023   | El Teorema de Gauss-Bonnet global. <br/> [Aula 33](aulas/Aula33.pdf){:target="_blank"} | Do Carmo, sección 4.5. <br/> Kühnel, sección 4F.
   
+
+### Presentaciones:
+
+Fecha       | Expositor              | Tópico 
+----------- | ---------------------- | ---------------------------------
+29.05.2023  |                        | 
+31.05.2023  |                        | 
+
   
 # Referencias
 <div id='id-ref'/>
