@@ -88,7 +88,7 @@ Fecha       | Expositor              | Tópico
 29.05.2023  | Rudik Rompich          | El catenoide y el helicoide
 29.05.2023  | Elder Guzmán           | La superficie de Enneper 
 29.05.2023  | Carlos Martínez        | La superficie de Catalán 
-29.05.2023  |                        | 
+29.05.2023  | Oscar Godoy            | La superficie de Costa
 31.05.2023  |                        | 
 
   
