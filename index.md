@@ -91,7 +91,7 @@ Fecha       | Expositor              | Tópico
 30.05.2023  | Carlos Martínez        | La superficie de Bour  [Presentación](seminarios/Catalan_Bour.pdf){:target="_blank"}
 01.06.2023  | Oscar Godoy            | La superficie de Henneberg  [Presentación](seminarios/Henneberg.pdf){:target="_blank"}
 01.06.2023  | Rudik Rompich          | Superficies de Scherk I y II  [Presentación](seminarios/Scherk.pdf){:target="_blank"}
-01.06.2023  | Elder Guzmán           | Superficies de Schwarz  [Presentación](seminarios/.pdf){:target="_blank"}
+01.06.2023  | Elder Guzmán           | Superficies de Schwarz  [Presentación](seminarios/Schwarz.pdf){:target="_blank"}
 
   
 # Referencias
