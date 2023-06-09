@@ -86,7 +86,7 @@ Tema: Superficies Mínimas.
 Fecha       | Expositor              | Tópico 
 ----------- | ---------------------- | ---------------------------------
 30.05.2023  | Rudik Rompich          | El catenoide y el helicoide  [Presentacion](seminarios/Catenoide_Helicoide.pdf){:target="_blank"}
-30.05.2023  | Elder Guzmán           | La superficie de Enneper  [Presentacion](seminarios/.pdf){:target="_blank"}
+30.05.2023  | Elder Guzmán           | La superficie de Enneper  [Presentacion](seminarios/Enneper.pdf){:target="_blank"}
 30.05.2023  | Carlos Martínez        | La superficie de Catalán  [Presentacion](seminarios/.pdf){:target="_blank"}
 30.05.2023  | Oscar Godoy            | La superficie de Costa  [Presentacion](seminarios/.pdf){:target="_blank"}
 01.06.2023  | Carlos Martínez        | La superficie de Bour  [Presentacion](seminarios/.pdf){:target="_blank"}
