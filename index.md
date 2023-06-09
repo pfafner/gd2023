@@ -85,14 +85,14 @@ Tema: Superficies Mínimas.
 
 Fecha       | Expositor              | Tópico 
 ----------- | ---------------------- | ---------------------------------
-30.05.2023  | Rudik Rompich          | El catenoide y el helicoide [Presentacion](seminarios/.pdf){:target="_blank"}
-30.05.2023  | Elder Guzmán           | La superficie de Enneper 
-30.05.2023  | Carlos Martínez        | La superficie de Catalán 
-30.05.2023  | Oscar Godoy            | La superficie de Costa
-01.06.2023  | Carlos Martínez        | La superficie de Bour
-01.06.2023  | Oscar Godoy            | La superficie de Costa
-01.06.2023  | Rudik Rompich          | Superficies de Scherk I y II
-01.06.2023  | Elder Guzmán           | Superficies de Schwarz
+30.05.2023  | Rudik Rompich          | El catenoide y el helicoide  [Presentacion](seminarios/.pdf){:target="_blank"}
+30.05.2023  | Elder Guzmán           | La superficie de Enneper  [Presentacion](seminarios/.pdf){:target="_blank"}
+30.05.2023  | Carlos Martínez        | La superficie de Catalán  [Presentacion](seminarios/.pdf){:target="_blank"}
+30.05.2023  | Oscar Godoy            | La superficie de Costa  [Presentacion](seminarios/.pdf){:target="_blank"}
+01.06.2023  | Carlos Martínez        | La superficie de Bour  [Presentacion](seminarios/.pdf){:target="_blank"}
+01.06.2023  | Oscar Godoy            | La superficie de Costa  [Presentacion](seminarios/.pdf){:target="_blank"}
+01.06.2023  | Rudik Rompich          | Superficies de Scherk I y II  [Presentacion](seminarios/.pdf){:target="_blank"}
+01.06.2023  | Elder Guzmán           | Superficies de Schwarz  [Presentacion](seminarios/.pdf){:target="_blank"}
 
   
 # Referencias
